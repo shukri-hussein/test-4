@@ -1,0 +1,38 @@
+/* .container{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px black solid;
+    border-radius: 20px ;
+    float: right;
+
+}
+
+.box{
+    background-color: blueviolet;
+  
+    color: white;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px black solid;
+    border-radius: 20px ;
+    float: left;
+
+} */
+
+.box{
+    border: 5px black solid;
+    font-size: 20px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    color: red;
+    /* text-align: right;
+    text-align: left; */
+    /* text-align: start;
+    text-align: end; */
+    text-align: justify;
+}

@@ -1,0 +1,22 @@
+.con1{
+    background-color: rgb(10, 84, 90);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+
+}
+
+
+body {
+    background-color: aqua;
+}
+
+.con2 {
+    background-color: white;
+}
+img {
+    width: 300px;
+    height: 200px;
+    
+}

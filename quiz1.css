@@ -1,0 +1,27 @@
+.container{
+    background-color: brown;
+    color: aqua;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding: 30px;
+    /* border-radius : 20px ; */
+    border-bottom-left-radius:200px ;
+    border-top-right-radius:200px ;
+
+}
+.box{ 
+    background-color: blueviolet;
+    width: 400px;
+    border-bottom-left-radius: 900px ;
+    border-top-right-radius: 900px ;
+    border-bottom-right-radius: 900px ;
+    border-top-left-radius: 900px 
+  
+}
+
+img{
+    width: 500px;
+    
+    
+}
